@@ -1,5 +1,5 @@
 # Mapbox-Graticule-with-Lable
-A Example of Graticule with Lable for Mapbox.
+A Example of Graticule with Lable for Mapbox GL JS.
 
 Inspired by https://github.com/maptiler/maplibre-grid, modify some paraments to fit Web Mercator Projection(EPSG:3857).
 
