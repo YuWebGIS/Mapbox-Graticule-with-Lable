@@ -2,3 +2,5 @@
 A Example of Graticule with Lable for Mapbox.
 
 Inspired by https://github.com/maptiler/maplibre-grid, modify some paraments to fit Web Mercator Projection(EPSG:3857).
+
+[!sample.png](https://github.com/SetsunaYu/Mapbox-Graticule-with-Lable/blob/main/sample.png)
